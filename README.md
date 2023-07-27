@@ -20,12 +20,6 @@ I'm developer.
   </a>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/EuManel/EuManel/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
 <h3> &nbsp;Contact me </h3>
 
 [![Linkedin: Emanoel Moura](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/emanoel-moura-59787a259)
