@@ -24,3 +24,5 @@ I'm developer.
 
 [![Linkedin: Emanoel Moura](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/emanoel-moura-59787a259)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mouraemanoel80@gmail.com)
+
+![Snake animation](https://github.com/EuManel/EuManel/blob/output/github-contribution-grid-snake-dark.svg)
